@@ -1,11 +1,11 @@
-<b>About Me</b>
+<b>About Me</b>   
 Marcelo Tardivo  
 Data Analyses | Business Intelligence | Inovation
 
-### Habilities & Competences
+<b>Habilities & Competences</b>  
 Programming Language: Python & R  
 DataViz: Power BI & Google Data Studio  
 Models: Linear Regression  
 
-### Portfólio
+<b>Portfólio</b>  
 In progress...
