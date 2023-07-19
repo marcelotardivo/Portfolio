@@ -1,5 +1,4 @@
-### About Me
-Ctrl + J
+### About Me &nbsp;
 Marcelo Tardivo  
 Data Analyses | Business Intelligence | Inovation
 
