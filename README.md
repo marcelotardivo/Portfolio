@@ -1,5 +1,5 @@
 ### Marcelo Tardivo
-\n
+<hr>
 ##### Data Analyses | Business Intelligence | Inovation
 ##### Programming Language: Python & R
 ##### DataViz: Power BI & Google Data Studio
