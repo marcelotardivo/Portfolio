@@ -1,5 +1,5 @@
-<h2> Introduction </h2>
-<p>
+<b><h3> Introduction </h3></b>
+<p style = "line-height:10px">
 <br> Marcelo Tardivo </br>
 <br>Data Analyses | Business Intelligence | Inovation</br>
 <br>Programming Language: Python & R</br>
