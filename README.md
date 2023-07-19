@@ -1,3 +1,2 @@
-# INTRODUÇÃO
 # Marcelo Tardivo
-### Data Analyses | Business Intelligence | Inovation
+##### Data Analyses | Business Intelligence | Inovation
