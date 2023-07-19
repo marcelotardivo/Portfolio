@@ -1,4 +1,4 @@
-### About Me &nbsp;
+<b>About Me</b>
 Marcelo Tardivo  
 Data Analyses | Business Intelligence | Inovation
 
