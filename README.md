@@ -1,6 +1,6 @@
 ### Marcelo Tardivo
 <hr>
-##### Data Analyses | Business Intelligence | Inovation
-##### Programming Language: Python & R
-##### DataViz: Power BI & Google Data Studio
-##### Models: Linear Regression
+<br>Data Analyses | Business Intelligence | Inovation</br>
+<br>Programming Language: Python & R</br>
+<br>DataViz: Power BI & Google Data Studio</br>
+<br>Models: Linear Regression</br>
