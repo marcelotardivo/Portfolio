@@ -1,4 +1,4 @@
-<div style="background-color: #ff0000; width: 100%; font-color: #ffffff">
+<div style="background-color: #ff0000">
     <img src = "Banner.png" with = 100%>
     <br>Data Analyses | Business Intelligence | Inovation</br>
     <br>Programming Language: Python & R</br>
