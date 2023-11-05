@@ -7,5 +7,7 @@ Programming Language: Python & R
 DataViz: Power BI & Google Data Studio  
 Models: Linear Regression  
 
-<b>Portfólio</b>  
-1. Calculadora
+<b>Portfólio</b>
+1. Projetos Básicos
+    - Calculadora
+    - Locadora de automóveis
