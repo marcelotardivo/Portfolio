@@ -8,4 +8,4 @@ DataViz: Power BI & Google Data Studio
 Models: Linear Regression  
 
 <b>Portfólio</b>  
-Cond Py: In Progress
+1. Calculadora
