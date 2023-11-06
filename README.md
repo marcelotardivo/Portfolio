@@ -11,3 +11,4 @@ Models: Linear Regression
 1. Projetos Básicos
     - Calculadora
     - Locadora de automóveis
+    - Caos na academia
